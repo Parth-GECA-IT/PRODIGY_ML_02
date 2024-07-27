@@ -1,2 +1,3 @@
-# PRODIGY_ML_02
-TASK 02
+# TASK 02
+**K-means Clustering**<br>
+***Author : Parth Armarkar***
